@@ -1,9 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Marko Čičak # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Date of birth: 22.07.1994
+  <br>
+  Age: 26
+  <br>
+  Location: Kaštela / Split / Novska, Croatia
+  <br>
+  e-mail: markocicak60@gmail.com
+  <br>
+  Phone: +385994014422
   <br><br>
-  Second description 
+   
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
